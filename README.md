@@ -1,15 +1,15 @@
 ### Hello there 👋
 
-<div align="center">
+- 🌱 I’m currently learning java, typescript, angular, spring boot & mysql
+- 🙃 Pronouns: she/ her
+- ⚡ Fun fact: I like arts and water sports
+
+
+<div align="left">
   <a href="https://github.com/anita-falchi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anita-falchi&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anita-falchi&layout=compact&langs_count=7&theme=kacho_ga"/>
 </div>
-
-
-- 🌱 I’m currently learning java, typescript, angular, spring boot & mysql
-- 🙃 Pronouns: she/ her
-- ⚡ Fun fact: I like arts and water sports
 
   
   <div style="display: inline_block"><br>
