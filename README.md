@@ -1,9 +1,8 @@
 ### Hello there 👋
 
-<img align='left' src="https://im2.ezgif.com/tmp/ezgif-2-32db55e24c.gif" width="150" height="80">
 
 
-- 🌱 I’m currently learning java, typescript, angular, spring boot & mysql
+- 🌱 I’m currently learning java, typescript, html, css, angular, spring boot & mysql
 - 🙃 Pronouns: she/ her
 - ⚡ Fun fact: I like arts and water sports
 
