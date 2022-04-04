@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning java, typescript, html, css, angular, spring boot & mysql
+- 🌱 I’m currently learning java, angular, spring boot & mysql
 - 🙃 Pronouns: she/ her
 - ⚡ Fun fact: I like arts and water sports
 
